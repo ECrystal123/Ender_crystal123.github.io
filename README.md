@@ -2,5 +2,6 @@
 一个个人网站而已
 没啥！
 ホモホモホモホモホモホモホモホモホモホモホモホモ
-https://ecrystal123-github-io.pages.dev
+# https://ecrystal123.github.io/Ender_crystal123.github.io/
 *据说插入了很逆天的东西*
+**最后更新：2024/10/8 01:01**
